@@ -1,4 +1,4 @@
-# 📄 ResumeSpark - Your Smart Resume Builder
+# 📄 ResumeSpark - Your  Resume Builder
 
 Welcome to ResumeSpark! 🎯📑 This is a web application that helps users create professional resumes quickly and efficiently. With an intuitive interface and customizable templates, ResumeSpark makes resume building hassle-free. 🚀
 
