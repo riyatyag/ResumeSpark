@@ -5,9 +5,12 @@ Welcome to ResumeSpark! 🎯📑 This is a web application that helps users crea
 # 🚀 Features
 
 ✅ Create stunning resumes with ease.
-✍️✅  Download resumes in PDF format.
-📄✅ Responsive design for mobile & desktop.
-📱✅ User-friendly and intuitive UI. 🖥️
+
+✅  Download resumes in PDF format.
+
+✅ Responsive design for mobile & desktop.
+
+✅ User-friendly and intuitive UI. 🖥
 
 # 🖥️ Tech Stack
 
@@ -39,9 +42,12 @@ http://localhost:3000
 # 🛠️ Future Enhancements
 
 🚀 Add user authentication for saving resumes.
-🚀 Integrate AI-based resume suggestions .🤖
+
+🚀 Integrate AI-based resume suggestions .
+
 🚀 Improve UI with animations & transitions.
-🚀 Dark mode support .🌙
+
+🚀 Dark mode support .
 
 🤝 Contributing
 
@@ -49,7 +55,8 @@ Contributions are welcome! If you want to improve ResumeSpark, feel free to fork
 
 📢 Connect with Me
 
-💻 GitHub: @riyatyag 
+💻 GitHub: @riyatyag
+
 Email: tyagiriya517@gmail.com
 
 🌟 If you like this project, don't forget to star ⭐ the repository!
